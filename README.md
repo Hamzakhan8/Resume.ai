@@ -1,3 +1,45 @@
+# Resume.ai - AI-Powered ATS Resume Generator
+
+## Overview
+Resume.ai is a modern tool that leverages AI to create ATS-friendly resumes tailored to specific job descriptions. Simply upload your CV and job posting, and our AI will optimize your resume to increase your chances of getting past Applicant Tracking Systems (ATS).
+
+## ✨ Key Features
+- **ATS Optimization**: Creates ATS-friendly resume formats
+- **Smart Matching**: Analyzes job descriptions and matches your skills
+- **Dual Format**: Download in both PDF and Word formats
+- **Instant Results**: Get your tailored resume in seconds
+
+## 📚 Documentation
+
+### API Endpoints
+
+#### 1. Analyze Resume
+## 🤝 Contributing
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 🐛 Bug Reports
+Please use the GitHub Issues tab to report bugs. Include:
+- Steps to reproduce
+- Expected behavior
+- Actual behavior
+- Screenshots if applicable
+---
+Built with ❤️ by [Hamza Khan](https://github.com/Hamzakhan8)
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Node.js 18+
+- npm or yarn
+- Google Gemini API key
+
+### Installation
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -48,5 +90,7 @@ export default tseslint.config({
   },
 })
 ```
+
+
 
 
